@@ -7,7 +7,6 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 ## Tecnologias em aprendizado
 
 * HTML
-*  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
                 
 * CSS
