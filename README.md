@@ -1,6 +1,40 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
+Meu nome é Ana e sou estudante de **Desenvolvimento de Sistemas**.
+
+Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boa praticas de desenvolvimento de software.
+
+## Tecnologias em aprendizado
+
+* HTML
+*  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+                
+* CSS
+* JavaScript
+* Git
+* GitHub
+* C#
+* Banco de dados
+
+##Atualmente estudando 
+
+* Lógica de programação
+* Desenvolvimento Front-End
+* Desenvolvimento Back-End
+* AFIs REST
+* Banco de dados
+* Git e GitHub
+
+## Projetos
+
+Neste GitHub você encontrará projetos, exercícios e atividades de desenvolvidos durante meus estudos.
+
+Os projetos têm como objetivos colocar em prática os conceitos aprendidos em aula e e acompanhar minha evolução como desenvolvedor
+
+## Objetivos💬
+
+Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvolver novos projetos e adquirir experiência na área de desenvolvimento de software
 **anacsilva64/anacsilva64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
