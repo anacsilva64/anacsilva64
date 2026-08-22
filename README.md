@@ -1,51 +1,43 @@
-## Olá 👋
+<h1 align="center">Olá! 👋 Eu sou a Ana</h1>
 
-Meu nome é Ana e sou estudante de **Desenvolvimento de Sistemas**.
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas 💻
+</p>
 
-Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boa praticas de desenvolvimento de software.
+<p align="center">
+  Em constante aprendizado sobre programação, desenvolvimento web e boas práticas de software.
+</p>
 
-## Tecnologias em aprendizado
+## 👩‍💻 Sobre mim
 
-* HTML
+Sou estudante de Desenvolvimento de Sistemas e estou construindo minha base em programação e desenvolvimento de software.
 
-  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-                
-* CSS
+Atualmente estou focada em aprender desenvolvimento Web, lógica de programação, APIs, bancos de dados e boas práticas de desenvolvimento.
 
-  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
-* JavaScript
+Meu objetivo é transformar o conhecimento adquirido nos estudos em projetos práticos e evoluir continuamente como desenvolvedora.
 
+### Tecnologias em aprendizado
 
-   <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
-* Git
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  
-  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
-* GitHub
-
-
-  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
-* C#
-
-  
-  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
-* Banco de dados
-
-##Atualmente estudando 
+### Atualmente estudando 
 
 * Lógica de programação
 * Desenvolvimento Front-End
 * Desenvolvimento Back-End
+
+### Explorando
+
 * APIs REST
 * Banco de dados
+* C#
 * Git e GitHub
 
-## Projetos
 
 Neste GitHub você encontrará projetos, exercícios e atividades de desenvolvidos durante meus estudos.
 
